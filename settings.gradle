@@ -1,0 +1,3 @@
+include ':GraphView-4.2.1'
+include ':app'
+rootProject.name = "X - Cardio"
